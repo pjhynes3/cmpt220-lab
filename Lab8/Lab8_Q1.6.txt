@@ -1,0 +1,3 @@
+1.6 ) In OOP, polymorphism refers to a languages ability to processes objects differently depending on their data type or class. Every Card aded to the BillFold object is of type Card and each of these card’s can refer to any subtype that inherits the Card class. The format() method that gets invoked is the method from the subclass, the actual object, rather than the Card object’s format().
+
+
